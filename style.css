@@ -19,7 +19,7 @@ html {
     margin: 65px auto;  }
   
   .hsg-footer {
-    
+    padding: 2px;
   }
   
   @media(max-width: 927px) {

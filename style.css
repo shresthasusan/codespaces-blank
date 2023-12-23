@@ -414,7 +414,9 @@ html {
           flex:1 0 30%;
           flex-direction: row;
           justify-content: space-between;
-          margin-left: 3.25rem
+          display: flex;
+          margin-left: 3rem;
+          flex-wrap: wrap;
       }
   }
   

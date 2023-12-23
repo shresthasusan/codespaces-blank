@@ -5,6 +5,7 @@ html {
   }
   body{
     font-family: 'Lexend Deca', sans-serif;
+    margin:0px;
   }
   ul{
     list-style: none;
@@ -936,7 +937,7 @@ html {
   .hsg-footer__bottom {
       display: flex;
       flex-direction: column;
-      padding: 2rem 2rem 0git ;
+      padding: 2rem 2rem 0;
       width: 100%
   }
   

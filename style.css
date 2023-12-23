@@ -19,8 +19,8 @@ html {
   .hsg-footer {
     background-color: #213343;
     color: #fff;
-    width: 65%;
-    margin: auto;
+    max-width: 650px;
+    margin: 65px auto;
   }
   
   @media(max-width: 927px) {

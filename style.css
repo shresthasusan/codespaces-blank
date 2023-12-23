@@ -9,6 +9,7 @@ html {
   }
   ul{
     list-style: none;
+    padding:px;
   }
   .cl-borderRegular {
       border: 1px solid;

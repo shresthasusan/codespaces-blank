@@ -13,14 +13,13 @@ html {
   }
 
   #wrapper{
-    margin: auto
-  }
-  
-  .hsg-footer {
     background-color: #213343;
     color: #fff;
     max-width: 650px;
-    margin: 65px auto;
+    margin: 65px auto;  }
+  
+  .hsg-footer {
+    
   }
   
   @media(max-width: 927px) {

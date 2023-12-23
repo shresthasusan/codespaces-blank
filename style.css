@@ -5,11 +5,11 @@ html {
   }
   body{
     font-family: 'Lexend Deca', sans-serif;
-    margin:0px;
+    margin:0px !important; 
   }
   ul{
     list-style: none;
-    padding:px;
+    padding:0px;
   }
   .cl-borderRegular {
       border: 1px solid;
